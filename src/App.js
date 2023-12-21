@@ -1,8 +1,8 @@
 import "./App.css"
 
-const name = "리액트"
+
 function App() {
-  const name = "리액트";
+  
  
   {/*주석은 이렇게 작성합니다*/}
   return (
