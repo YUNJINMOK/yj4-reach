@@ -11,9 +11,9 @@ function App() {
         <div id="navbar_logo">카카오톡</div>
         <div id="navbar_meun">
           <ul>
-            <li><a href="#">카톡 안녕가이드</a></li>
-            <li><a href="#">카톡 설명서</a></li>
-            <li><a href="#">다운로드</a></li>
+          <a href="/"> <li>카톡 안녕가이드</li></a>
+          <a href="/"> <li>카톡 설명서</li></a>
+          <a href="/"> <li>다운로드</li></a>
           </ul>
         </div>
       </div>
@@ -24,7 +24,6 @@ function App() {
         </div>
       </div>
     </div>
-
   </>
     
 
