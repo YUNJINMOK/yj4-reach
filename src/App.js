@@ -4,9 +4,9 @@ import "./App.css"
 function App() {
   
  
-  {/*주석은 이렇게 작성합니다*/}
-  return (
-    <div className="body">
+
+  return <>
+  <div className="body">
       <div className="navbar">
         <div id="navbar_logo">카카오톡</div>
         <div id="navbar_meun">
@@ -24,8 +24,9 @@ function App() {
         </div>
       </div>
     </div>
-   
-  )
+
+  </>
+    
 
     
 
